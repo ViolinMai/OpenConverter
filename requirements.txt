@@ -1,0 +1,4 @@
+PyQt5
+img2pdf
+pdf2img
+Pillow
