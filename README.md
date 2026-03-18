@@ -22,12 +22,13 @@ Built with Python and PyQt5, using img2pdf and pdf2image libraries.
     
 ## IMPORTANT
 PDF to Image conversion requires Poppler.
+
 on Linux (Ubuntu):
  - sudo apt install poppler-utils
 on Linux (Arch):
  - sudo pacman -S poppler
 on Windows:
-Download Poppler and add it to PATH.
+ - Download Poppler and add it to PATH.
 
 ## Installation
 
