@@ -25,8 +25,8 @@ Built with Python and PyQt6, using various open-sourced libraries.
     - pytesseract
     
 ## IMPORTANT
-PDF → Image conversion requires Poppler.
-Office → PDF requires LibreOffice to be installed.
+ - PDF → Image conversion requires Poppler.
+ - Office → PDF requires LibreOffice to be installed.
 It will be detected automatically once installed.
 ## on Linux (Ubuntu):
  - sudo apt install poppler-utils
@@ -36,10 +36,10 @@ It will be detected automatically once installed.
  - sudo pacman -S libreoffice
  
 ## on Windows:
- -  Poppler is already bundled with the application, no need to install it manually. (if you have any problems, try downloading Poppler and add it to PATH).
+ - Poppler is already bundled with the application, no need to install it manually. (if you have any problems, try downloading Poppler and add it to PATH).
  - You can download LibreOffice from here https://www.libreoffice.org/download/download-libreoffice/
  
- ## Windows set up note
+
 
 ## Installation
 
