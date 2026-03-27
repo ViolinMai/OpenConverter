@@ -23,6 +23,7 @@ Built with Python and PyQt6, using various open-sourced libraries.
     - PyMuPDF ('fitz')
     - pypdf
     - pytesseract
+    - fpdf2
     
 ## IMPORTANT
  - PDF → Image conversion requires Poppler.
