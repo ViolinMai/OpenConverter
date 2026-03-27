@@ -2,6 +2,6 @@ PyQt6
 img2pdf
 pdf2image
 Pillow
-pymypdf
+pymupdf
 pypdf
 pytesseract
